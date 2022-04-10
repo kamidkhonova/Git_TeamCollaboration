@@ -7,4 +7,6 @@ public class First {
     // change made first file
 
     // Today java class was good
+
+    // java is fun
 }
