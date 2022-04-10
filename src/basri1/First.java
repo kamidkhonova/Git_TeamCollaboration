@@ -5,4 +5,8 @@ public class First {
     // basri made a file
 
     // change made first file
+
+    // Today java class was good
+
+    // java is fun
 }
