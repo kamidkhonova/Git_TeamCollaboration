@@ -11,4 +11,6 @@ public class First {
     // java is fun
 
     // OMG java getting hard
+
+    // I think java is not so hard if you  are going to study hard
 }
