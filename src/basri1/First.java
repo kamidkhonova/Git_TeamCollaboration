@@ -9,4 +9,6 @@ public class First {
     // Today java class was good
 
     // java is fun
+
+    // OMG java getting hard
 }
